@@ -10,5 +10,33 @@
         <Button>a</Button>
         <Button DockPanel.Dock="Bottom">b</Button>
         <Button>c</Button>
+        <Button DockPanel.Dock="Bottom">b</Button>
+        <Button>c</Button>
+        <Button DockPanel.Dock="Bottom">b</Button>
+        <Button>c</Button>
+        <Button DockPanel.Dock="Bottom">b</Button>
+        <Button>c</Button>
+        <Button DockPanel.Dock="Bottom">b</Button>
+        <Button>c</Button>
+        <Button DockPanel.Dock="Bottom">b</Button>
+        <Button>c</Button>
+        <Button DockPanel.Dock="Bottom">b</Button>
+        <Button>c</Button>
+        <Button DockPanel.Dock="Bottom">b</Button>
+        <Button>c</Button>
+        <Button DockPanel.Dock="Bottom">b</Button>
+        <Button>c</Button>
+        <Button DockPanel.Dock="Bottom">b</Button>
+        <Button>c</Button>
+        <Button DockPanel.Dock="Bottom">b</Button>
+        <Button>c</Button>
+        <Button DockPanel.Dock="Bottom">b</Button>
+        <Button>c</Button>
+        <Canvas>
+            <Rectangle Fill="#189bcc" Height="95" Width="235" Canvas.Left="288" Canvas.Top="27">
+
+            </Rectangle>
+        </Canvas>
     </DockPanel>
+
 </Window>
