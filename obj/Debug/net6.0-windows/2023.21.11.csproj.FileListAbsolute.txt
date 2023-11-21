@@ -29,3 +29,5 @@ C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows
 C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\Window3.baml
 C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\Window4.baml
 C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\Window5.baml
+C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\Window6.g.cs
+C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\Window6.baml
