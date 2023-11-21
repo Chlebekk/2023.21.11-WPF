@@ -19,3 +19,7 @@ C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows
 C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\2023.21.11.pdb
 C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\2023.21.11.genruntimeconfig.cache
 C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\ref\2023.21.11.dll
+C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\programista\Desktop\Nowy folder (4)\2023.21.11\obj\Debug\net6.0-windows\Window2.baml
