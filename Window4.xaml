@@ -7,17 +7,16 @@
         mc:Ignorable="d"
         Title="Window4" Height="450" Width="800">
     <WrapPanel>
-        <Button>eeui</Button>
-        <Button>eeui</Button>
-        <Button>eeui</Button>
-        <Button>eeui</Button>
-        <Button>eeui</Button>
-        <Button>eeui</Button>
+        <Button>eeiy</Button>
+        <Button>eeiy</Button>
+        <Button>eeiy</Button>
+        <Button>eeiy</Button>
         <WrapPanel Orientation="Vertical">
-            <Button>OIAOIA</Button></WrapPanel>
-            <Button>OIAOIA</Button></WrapPanel>
-            <Button>OIAOIA</Button></WrapPanel>
-            <Button>OIAOIA</Button></WrapPanel>
-            <Button>OIAOIA</Button></WrapPanel>
+            <Button>OIAOIA</Button>
+            <Button>OIAOIA</Button>
+            <Button>OIAOIA</Button>
+            <Button>OIAOIA</Button>
+            <Button>OIAOIA</Button>
+        </WrapPanel>
     </WrapPanel>
 </Window>
