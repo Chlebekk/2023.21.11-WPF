@@ -13,5 +13,7 @@
         <TextBox x:Name="awooga">
            
         </TextBox>
+        <Button Click="Button_Click" Height="57">guzik tekst box</Button>
+        <Button Click="Button_Click_1"  Height="57">guzik slider</Button>
     </StackPanel>
 </Window>

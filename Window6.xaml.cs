@@ -23,5 +23,17 @@ namespace _2023._21._11
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            String wpisanyTXT = awooga.Text;
+            MessageBox.Show("tekst:" + wpisanyTXT, "okno informacyjne",MessageBoxButton.OK,MessageBoxImage.Exclamation);
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            String wpisanyTXT = rozmiarSlider.Value.ToString();
+            MessageBox.Show(wpisanyTXT,"mario gonna steal your liver", MessageBoxButton.OK, MessageBoxImage.Warning);
+        }
     }
 }
